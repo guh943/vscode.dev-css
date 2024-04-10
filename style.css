@@ -1,20 +1,16 @@
  @charset "UTF-8";
 
 
-h1{
-    color: blueviolet;
+mark{
+    background-color: aquamarine;
 }
-mask{
-    color: rgb(226, 46, 43);
+b{
+    background-color: rgb(43, 64, 226);
 }
-body{
-    background-color: black;
+i{
+    background-color: green;
 }
-h2{
-    background-color: ghostwhite;
+A{
+    background-color:yellow ;
 }
-body{
-    background-image: linear-gradient(to left, black,blue );
-}
-
 
